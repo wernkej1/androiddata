@@ -1,0 +1,154 @@
+﻿{
+  "roles": [
+    {
+      "id": 1,
+      "title": "Top"
+    },
+    {
+      "id": 2,
+      "title": "Jungle"
+    },
+    {
+      "id": 3,
+      "title": "Middle"
+    },
+    {
+      "id": 4,
+      "title": "ADC"
+    },
+    {
+      "id": 5,
+      "title": "Support"
+    }
+  ],
+  "champions": [
+    {
+      "id": 1,
+      "body": "Aatrox",
+      "roleId": 1
+    },
+    {
+      "id": 2,
+      "body": "Akali",
+      "roleId": 1
+    },
+    {
+      "id": 3,
+      "body": "Camille",
+      "roleId": 1
+    },
+    {
+      "id": 4,
+      "body": "Darius",
+      "roleId": 1
+    },
+    {
+      "id": 5,
+      "body": "Garen",
+      "roleId": 1
+    },
+    {
+      "id": 6,
+      "body": "Amumu",
+      "roleId": 2
+    },
+    {
+      "id": 7,
+      "body": "Elise",
+      "roleId": 2
+    },
+    {
+      "id": 8,
+      "body": "Evelynn",
+      "roleId": 2
+    },
+    {
+      "id": 9,
+      "body": "Lee Sin",
+      "roleId": 2
+    },
+    {
+      "id": 10,
+      "body": "Master Yi",
+      "roleId": 2
+    },
+    {
+      "id": 11,
+      "body": "Ahri",
+      "roleId": 3
+    },
+    {
+      "id": 12,
+      "body": "Anivia",
+      "roleId": 3
+    },
+    {
+      "id": 13,
+      "body": "Fizz",
+      "roleId": 3
+    },
+    {
+      "id": 14,
+      "body": "Neeko",
+      "roleId": 3
+    },
+    {
+      "id": 15,
+      "body": "Zed",
+      "roleId": 3
+    },
+    {
+      "id": 16,
+      "body": "Ashe",
+      "roleId": 4
+    },
+    {
+      "id": 17,
+      "body": "Caitlyn",
+      "roleId": 4
+    },
+    {
+      "id": 18,
+      "body": "Draven",
+      "roleId": 4
+    },
+    {
+      "id": 19,
+      "body": "Jhin",
+      "roleId": 4
+    },
+    {
+      "id": 20,
+      "body": "Sivir",
+      "roleId": 4
+    },
+    {
+      "id": 21,
+      "body": "Alistar",
+      "roleId": 5
+    },
+    {
+      "id": 22,
+      "body": "Braum",
+      "roleId": 5
+    },
+    {
+      "id": 23,
+      "body": "Lulu",
+      "roleId": 5
+    },
+    {
+      "id": 24,
+      "body": "Morgana",
+      "roleId": 5
+    },
+    {
+      "id": 25,
+      "body": "Pyke",
+      "roleId": 5
+    }
+  ],
+  "profile": {
+    "name": "leagueroles"
+  }
+}
